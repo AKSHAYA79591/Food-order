@@ -1,0 +1,45 @@
+body{
+    background-image: url;
+    background-repeat: no-repeat;
+    background-size: 1280bx 588px;
+}
+form{
+    border: double;
+    width: 450px;
+    margin-left: 50px;
+    padding-left: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: lightblue;
+}
+label{
+    font-style: 23px;
+    font-weight: bold;
+    color: green;
+
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: cornflowerblue;
+
+}
+p{
+    color: brown;
+    font-size: 22px;
+    font-weight: ;
+}
